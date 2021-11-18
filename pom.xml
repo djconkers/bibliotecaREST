@@ -3,6 +3,7 @@
   <groupId>cl.zentroz.biblioteca</groupId>
   <artifactId>bibliotecaREST</artifactId>
   <version>0.0.1</version>
+  <description>Biblioteca para API REST</description>
   <parent>
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-parent</artifactId>
